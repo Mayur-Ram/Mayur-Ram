@@ -51,12 +51,11 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif"  />
 
 ###
 
-<br clear="both"> <img src="https://github.com/Mayur-Ram/Mayur-Ram/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> 
+<br clear="both"> <img align="left" height="179" src="https://github.com/Mayur-Ram/Mayur-Ram/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> 
+
+<img align="right" height="150" src="https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif" />
 
 ###
