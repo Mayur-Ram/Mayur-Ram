@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Mayur Ram<br>A passionate Python backend developer and web scraper.</h2>
+<h2 align="center">Hi 👋, I'm Mayur Ram<br>A passionate Python backend developer and web scraper.</h2></br>
 
 ###
 
@@ -9,7 +9,7 @@
 
 
 ###
-</br></br>
+</br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
