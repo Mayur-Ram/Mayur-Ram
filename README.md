@@ -54,7 +54,7 @@
 
 ###
 
-<br clear="both"> <img align="left" height="179" src="https://github.com/Mayur-Ram/Mayur-Ram/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> 
+<br clear="both"> <img align="left" height="150" src="https://github.com/Mayur-Ram/Mayur-Ram/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> 
 
 <img align="right" height="150" src="https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif" />
 
