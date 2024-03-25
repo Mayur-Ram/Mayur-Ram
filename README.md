@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mayur-Ram&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" /> &nbsp;&nbsp;
+  <img src="https://camo.githubusercontent.com/7640f1faf6d27f6356b78e472494acad1f3b2fe69adf9b82e4f278790a67aaf3/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d4d617975722d52616d266c6f63616c653d656e266d6f64653d6461696c79267468656d653d6461726b26686964655f626f726465723d66616c736526626f726465725f7261646975733d35266f726465723d33" data-canonical-src="https://streak-stats.demolab.com/?user=Mayur-Ram&amp;locale=en&amp;mode=daily&amp;theme=dark&amp;hide_border=false&amp;border_radius=5&amp;order=3" style="max-width: 45%;"> &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
